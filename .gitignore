@@ -1,0 +1,23 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Virtual environments
+env/
+venv/
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
