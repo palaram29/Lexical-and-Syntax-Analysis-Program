@@ -12,7 +12,7 @@ This project was created for the PLCD assignment and serves as a foundational in
   - **Operators:** Arithmetic (`+`, `-`, `*`, `/`), relational (`>`, `<`, `==`), logical (`&&`, `||`)  
   - **Punctuation and Separators:** `;`, `,`, `{`, `}`, `()`
 - **Input Options:** Accepts input from a **text file** or **direct string input**.  
-- **Output:** Displays a **token list with token type**, making it easy to understand the classification.  
+- **Output:** Displays a **token list with token type, and parse tree**  making it easy to understand the classification.  
 - **Error Handling:** Handles invalid or unrecognized tokens gracefully.  
 - **Educational Purpose:** Serves as a practical introduction to **compiler front-end design**.
 
