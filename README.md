@@ -27,9 +27,9 @@ This project was created for the PLCD assignment and serves as a foundational in
   - Use this command-    pip install streamlit pandas graphviz
 
 - **Then run the code using the following command in VS terminal**
-- python -m streamlit run "Lexical and Syntax Analysis Program.py"
-  or
-- streamlit run "Lexical and Syntax Analysis Program.py"
+  - python -m streamlit run "Lexical and Syntax Analysis Program.py"
+    or
+  - streamlit run "Lexical and Syntax Analysis Program.py"
 
 - **After the UI appears in the browser. You can execute it by entering an expression or by uploading a file.** 
 
